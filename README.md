@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-<!--
-**DevayaniDindaaa/devayanidindaaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on PT Bimasakti Alterra (an Information Technologies Company)
 - 🌱 I’m currently learning learning website development w/ vue.js
 - 👯 I’m looking to collaborate on collaborate on mobile, website or database service projects
@@ -15,4 +10,3 @@ Here are some ideas to get you started:
   - @devayanidindabsa (office github)
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: love Thai song and Thai drama
--->
